@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 Technologies and tools:
 - 📊 Python, NumPy, Pandas, Matplotlib  
 - 🤖 Scikit-Learn, TensorFlow, PyTorch
