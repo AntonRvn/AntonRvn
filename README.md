@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](C:/Users/Антон/github-header-image.png)
 
 Technologies and tools:
 - 📊 Python, NumPy, Pandas, Matplotlib  
