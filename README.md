@@ -7,7 +7,7 @@
 
 Technologies and tools:
 - 📊 Python, NumPy, Pandas, Matplotlib  
-- 🤖 Scikit-Learn, TensorFlow, PyTorch
+- 🤖 Scikit-Learn, PyTorch
 - 📂 SQL, PostgreSQL
 - 🏗️ FastAPI
 
