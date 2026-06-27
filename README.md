@@ -54,5 +54,5 @@
 
 | № | Проект | Описание | Ключевые артефакты |
 | :-- | :--- | :--- | :--- |
-| 1 |  [Оформление банковского вклада](https://github.com/AntonRvn/pet_project_system_analyst) | Полный цикл системного анализа для банка | BPMN, Use Cases и User Story, UML sequence diagram, OpenAPI-спецификация, JSON Schema, XSD, ТЗ на фронтэнд, бэкэнд, интеграцию фронтэнда с бэкэндом |
+| 1 |  [Оформление банковского вклада](https://github.com/AntonRvn/opening_a_bank_deposit) | Полный цикл системного анализа для банка | BPMN, Use Cases и User Story, UML sequence diagram, OpenAPI-спецификация, JSON Schema, XSD, ТЗ на фронтэнд, бэкэнд, интеграцию фронтэнда с бэкэндом |
 |2 | [Распознавание русского жестового языка (РЖЯ)](https://github.com/AntonRvn/Isolated-Sign-Russian-Language-Recognizer) | Моя ВКР. Выполнен анализ и предобработка данных датасета Slovo и разработана модель распознавания РЖЯ | Архитектура модели, обучение модели, открытые веса модели |
